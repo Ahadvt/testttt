@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221029T053000Z
+DTEND:20221029T100000Z
+DTSTAMP:20221024T064638Z
+ORGANIZER;CN=leyla.karimli@code.edu.az:mailto:leyla.karimli@code.edu.az
+UID:10le8mj2bb3tjkj0da1qhtk0in@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shiraslan.islamzada@code.edu.az;X-NUM-GUESTS=0:mailto:shiraslan.isl
+ amzada@code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fidan.jafarzada@code.edu.az;X-NUM-GUESTS=0:mailto:fidan.jafarzada@c
+ ode.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gulshan.jumayeva@code.edu.az;X-NUM-GUESTS=0:mailto:gulshan.jumayeva
+ @code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Aydan Hasanova;X-NUM-GUESTS=0:mailto:aydan.hasanova@code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aynur.nabiyeva@code.edu.az;X-NUM-GUESTS=0:mailto:aynur.nabiyeva@cod
+ e.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gunay.ahmadova@code.edu.az;X-NUM-GUESTS=0:mailto:gunay.ahmadova@cod
+ e.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shahin.shakarli@code.edu.az;X-NUM-GUESTS=0:mailto:shahin.shakarli@c
+ ode.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=leyla.karimli@code.edu.az;X-NUM-GUESTS=0:mailto:leyla.karimli@code.edu.
+ az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sahar.gadimli@code.edu.az;X-NUM-GUESTS=0:mailto:sahar.gadimli@code.
+ edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Elnur Akhundov;X-NUM-GUESTS=0:mailto:elnur.akhundov@code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Programming instructors;X-NUM-GUESTS=0:mailto:p.instructors@code.ed
+ u.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=IT;X-NUM-GUESTS=0:mailto:it@code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=P322;X-NUM-GUESTS=0:mailto:p322@code.edu.az
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:talent.center@code.edu.az
+X-GOOGLE-CONFERENCE:https://meet.google.com/bqx-fkww-gdh
+X-MICROSOFT-CDO-OWNERAPPTID:-1087262767
+CREATED:20221024T064635Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/bq
+ x-fkww-gdh\nOr dial: (US) +1 650-761-3307 PIN: 497537413#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221024T064635Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:P322 - Layihə Təqdimatı
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
